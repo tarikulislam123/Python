@@ -3,7 +3,7 @@ age = input('Enter your age : ')
 newAge = int(age) + 5
 
 print('My age : ', newAge)
-__________________________________________________________
+______________________________________________________
 num = input('Enter a number : ')
 
 print(float(num))
@@ -19,6 +19,7 @@ print(name.replace('Tarikul','Nehry'))
 print(name)
 __________________________________________________________
 k = range(5)
+print('\n')           # new line break
 
 for i in range(5):    # 0 1 2 3 4
     print(i)
