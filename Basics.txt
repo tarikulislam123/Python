@@ -1,7 +1,7 @@
 from math import *
 print(sqrt(16))
-Comments: 
-single line comment = #
+______________________________________________________
+single line comment  =  #
 ctrl + Forward Slash = Total 
 ________________________________________________________
 age = input('Enter your age : ')
