@@ -86,7 +86,10 @@ print(my_list)
 __________________________________________________________________________________
 print('I am the \'King\' ')    #Backslash Apostophe
 
+print('You are my \'Rose\' and I am your \'Jack\' ')
 
+
+print('You are my \'Rose\' and\nI am your \'Jack\' ')
 
 
 
