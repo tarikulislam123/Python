@@ -3,6 +3,17 @@ print(sqrt(16))
 ________________________________________________________
 age = input('Enter your age : ')
 
+if int(age) >= 18:
+    print('You can vote')
+
+elif int(age) < 18 and int(age) > 3:
+    print('You can not vote')
+
+else:
+    print('you are a baby')
+________________________________________________________
+age = input('Enter your age : ')
+
 newAge = int(age) + 5
 
 print('My age : ', newAge)
@@ -52,17 +63,6 @@ marks.insert(0,99)
 print(99 in marks)
 
 print(len(marks))
-________________________________________________________________
-age = input('Enter your age : ')
-
-if int(age) >= 18:
-    print('You can vote')
-
-elif int(age) < 18 and int(age) > 3:
-    print('You can not vote')
-
-else:
-    print('you are a baby')
 ___________________________________________________________________
 my_list = [1,2,3,4,5]
 
