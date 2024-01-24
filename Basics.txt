@@ -1,6 +1,8 @@
 from math import *
 print(sqrt(16))           
 // single line comment  =  ctrl + Forward Slash = Total //
+
+immutable = unchangable
 ________________________________________________________
 age = input('Enter your age : ')
 
@@ -90,7 +92,38 @@ print('You are my \'Rose\' and I am your \'Jack\' ')
 
 
 print('You are my \'Rose\' and\nI am your \'Jack\' ')
+__________________________________________________________________________
+print('Nayan',1,2,3)
+print('Nayan',1,2,3, sep = '-')    
+_________________________________________________________________
+print('Hey',6, 7, sep = '-', end = '009\n'  )
+print('Nayan')
 
+________________________________________________________________________
+b = True
+c = 'Nayan'
+d = None
+e = complex(8, 2)
+
+print(b)
+
+print('Type of a is: ', type(b))
+print('Type of c is: ', type(c))
+print('Type of d is: ', type(d))
+
+print('Type of e is: ', type(e))
+print(e)
+
+_______________________________________________________
+print(15/6)
+
+print(15)
+
+print(5%3)
+
+print(5*3)
+
+print(5 ** 2)
 
 
 
