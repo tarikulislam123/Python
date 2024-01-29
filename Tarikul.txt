@@ -1,0 +1,53 @@
+a = '5'
+b = 5
+
+print(int(a) + b)
+__________________________________________________
+Impilicit TypeCasting :
+
+c = 1.9
+d = 8            // 9
+
+print(c + d)
+___________________________________________________
+a = input()
+print('My name is : ',
+---------------------------------------------------
+a = input('Enter your name: ')
+print('My name is : ', a)
+---------------------------------------------------
+x = input('Enter your first number: ')
+y = input('Enter your second number: ')
+
+print(x + y)
+
+print(int(x) + int(y))
+___________________________________________________
+names = 'Tarikul, Nayan'
+print(names[0:7])    
+______________________________________________________
+k = 'Nayan!!!!!!!!!!!'
+print(k)
+print(k.rstrip('!'))
+                  //Tarikul
+_________________________________________________________
+k = "I am Nayan"
+
+x = k.split()
+
+print(x)
+__________________________________________________________
+
+blockHeadings = 'introduction to Pyhton'
+
+k = blockHeadings.capitalize()
+
+print(k)
+
+____________________________________________________________
+
+movieName = 'Welcome to the Jungle!!!'
+
+k = movieName.center(50)
+
+print(k)
