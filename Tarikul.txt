@@ -1,1 +1,43 @@
 
+# Exlamatory char strip kore dey
+
+k = 'Nayan!!!!!!'
+
+print(k.rstrip('!')) 
+________________________________________________________________
+
+k = 'AIUB BRAC NSU'
+
+print(k.split())
+List akare debe
+
+_________________________________________________________________
+
+k = 'introduction to Database'
+
+print(k.capitalize())
+
+________________________________________________________________
+
+k= 'Welcome to the console!!!'
+
+print(k.center(50))
+
+-----------------------------------------------------------------
+
+k= 'Welcome to the console!!!'
+
+print(len(k))
+
+print(len(k.center(50))) 
+
+________________________________________________________________
+
+k = 'AIUB BRAC NSU AIUB'
+
+print(k.count('AIUB'))
+_________________________________________________________________
+
+k= 'Welcome to the console!!!'
+
+print(k.endswith('!!!'))
