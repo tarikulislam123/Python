@@ -47,6 +47,13 @@ k = "His 's name is Ankush.He is an honest man"
 
 print(k.find("is"))
 
+____________________________________________________________________
+k = 'WelcomeToTheConsole'
+print(k.isalnum())     
+
+Alpha Numeric -> TRUE return kore jodi (A-Z || a-z) thake
+Num/Punctuation thake -> FALSE return korbe
+
 
 
 
