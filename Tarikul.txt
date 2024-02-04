@@ -43,7 +43,7 @@ k= 'Welcome to the console!!!'
 print(k.endswith('!!!'))
 
 ___________________________________________________________________
-k = "His 's name is Ankur. He is an honest man"
+k = "His 's name is Ankush.He is an honest man"
 
 print(k.find("is"))
 
