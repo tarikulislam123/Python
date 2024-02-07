@@ -53,6 +53,10 @@ print(k.isalnum())
 
 Alpha Numeric -> TRUE return kore jodi (A-Z || a-z) thake
 Num/Punctuation thake -> FALSE return korbe
+____________________________________________________________________
+k = '   '
+
+print(k.isspace())  //Jodi str a kono whitespace thake TRUR return korbe
 
 
 
