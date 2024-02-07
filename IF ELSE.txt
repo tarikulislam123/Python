@@ -1,9 +1,3 @@
-k = '   '
-
-print(k.isspace())  //Jodi str a kono whitespace thake TRUR return korbe
-
-_________________________________________________________________________________
-
 a = int(input('Enter ur age: '))
 print('ur age is: ',a)
 
